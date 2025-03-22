@@ -27,7 +27,7 @@ This project is a deep learning-based skin cancer detection system using Convolu
    ```
 3. Run the application:
    ```sh
-   python gui.py
+   python Interface.py
    ```
 
 ## 🎯 How It Works
