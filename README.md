@@ -41,7 +41,7 @@ This project is a deep learning-based skin cancer detection system using Convolu
    - The model predicts and displays the result with confidence percentage.
 
 ## 📊 Model Training Summary
-- **Input Size:** 128x128 pixels
+- **Input Size:** 224x224 pixels
 - **CNN Layers:** 3 Convolutional + MaxPooling layers
 - **Activation Functions:** ReLU, Softmax
 - **Optimizer:** Adam
