@@ -46,7 +46,7 @@ def load_and_predict():
         root.update()
 
         # Load and preprocess image
-        img = Image.open(file_path).resize((128, 128))
+        img = Image.open(file_path).resize((224, 224))
         img_array = image.img_to_array(img) / 255.0  # Normalize
         img_array = np.expand_dims(img_array, axis=0)
 
