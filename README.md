@@ -33,6 +33,11 @@ This system analyzes dermoscopic images and classifies them into **seven types o
 
 ---
 
+## 🖥️ Application UI
+
+![Application Interface](assets/app_interface.jpg)
+
+---
 ## 📈 Accuracy & Loss Curves
 
 ![Metrics Curves](assets/metrics_curves.png)
@@ -64,10 +69,6 @@ This system analyzes dermoscopic images and classifies them into **seven types o
 weighted avg       0.85      0.85      0.85      1008
 ```
 
-## 🖥️ Application UI
-
-![Application Interface](assets/app_interface.jpg)
-
 ### Features:
 - 📁 Browse and load dermoscopic images.
 - 🤖 Instant AI-based prediction using a trained EfficientNet model.
@@ -75,6 +76,36 @@ weighted avg       0.85      0.85      0.85      1008
 - 🧼 Sleek, modern interface with `ttkbootstrap`.
 
 ---
+
+## 🧪 Test Examples
+
+ Akiec
+
+![akiec](assets/akiec.jpg)
+
+ Bcc
+
+![bcc](assets/bcc.jpg)
+
+ Bkl
+
+![bkl](assets/bkl.jpg)
+
+Df
+
+![df](assets/df.jpg)
+
+ Mel
+
+![mel](assets/mel.jpg)
+
+ Nv
+
+![nv](assets/nv.jpg)
+
+ Vasc
+
+![vasc](assets/vasc.jpg)
 
 ## ▶️ How to Run
 
