@@ -152,7 +152,7 @@ SkinCancerDetection/
 ├── skin-cancer.ico
 ├── main.py
 ├── requirements.txt
-├── LICENSE
+├── LICENSE                     
 └── README.md
 ```
 
