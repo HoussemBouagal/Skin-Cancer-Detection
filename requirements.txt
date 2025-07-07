@@ -1,0 +1,8 @@
+tensorflow
+numpy
+pillow
+opencv-python
+ttkbootstrap
+matplotlib
+seaborn
+pandas
