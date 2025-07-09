@@ -47,7 +47,6 @@ This system analyzes dermoscopic images and classifies them into **seven types o
 ## 📊 Confusion Matrix
 
 ![Confusion Matrix](assets/confusion_matrix.png)
-*Confusion Matrix for the 7 skin cancer classes.*
 
 ---
 
