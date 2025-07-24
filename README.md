@@ -25,9 +25,9 @@ This system analyzes dermoscopic images and classifies them into **seven types o
 
 | Metric                | Value (%)     |
 |-----------------------|---------------|
-| Training Accuracy     | 95.74         |
-| Validation Accuracy   | 86.30         |
-| Testing Accuracy      | 85.12         |
+| Training Accuracy     | 95.74%        |     
+| Validation Accuracy   | 86.30%        |       
+| Testing Accuracy      | 85.12%        |       
 | Model Used            | EfficientNetB1|
 | Training Epochs       | 25 epochs + 15 fine-tuning |
 
