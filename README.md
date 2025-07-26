@@ -20,6 +20,7 @@ This system analyzes dermoscopic images and classifies them into **seven types o
 - **vasc** (Vascular lesions)
 
 ---
+During training, the system was configured to automatically save the best-performing model. The results are as follows:
 
 ## 🎯 Model Summary
 
