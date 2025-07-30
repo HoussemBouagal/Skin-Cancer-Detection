@@ -34,7 +34,6 @@ During training, the system was configured to automatically save the best-perfor
 
 ---
 
----
 ## 📈 Accuracy & Loss Curves
 
 ![Metrics Curves](assets/metrics_curves.png)
