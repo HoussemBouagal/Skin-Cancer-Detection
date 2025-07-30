@@ -157,7 +157,7 @@ ttkbootstrap
 ## 🗂️ Project Structure
 
 ```
-SkinCancerDetection/
+Skin-Cancer-Detection/
 │
 ├── test/
 │   ├── akiec/
