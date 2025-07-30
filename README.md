@@ -34,10 +34,6 @@ During training, the system was configured to automatically save the best-perfor
 
 ---
 
-## 🖥️ Application UI
-
-![Application Interface](assets/app_interface.jpg)
-
 ---
 ## 📈 Accuracy & Loss Curves
 
@@ -74,6 +70,12 @@ weighted avg       0.85      0.85      0.85      1008
 - 🤖 Instant AI-based prediction using a trained EfficientNet model.
 - ✅ Visual comparison between predicted and actual class.
 - 🧼 Sleek, modern interface with `ttkbootstrap`.
+
+---
+
+## 🖥️ Application UI
+
+![Application Interface](assets/app_interface.jpg)
 
 ---
 
